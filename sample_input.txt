@@ -1,0 +1,4 @@
+3
+1 2 3 4 5 6 7 8 9
+# This file is optional; program is interactive.
+# If you want to test automatically, create input sequences matching menu choices.
